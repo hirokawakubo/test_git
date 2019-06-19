@@ -1,3 +1,4 @@
 blah
 blah
 blash
+Today I'm learning about "git diff"
