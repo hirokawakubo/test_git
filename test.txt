@@ -6,3 +6,4 @@ Changed ownership from bordrinus to hirokawakubo
 hello
 2nd hello
 3rd hello
+bye
